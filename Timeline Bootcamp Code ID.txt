@@ -1,0 +1,5 @@
+Timeline (3 bulan atau 12 minggu)
+
+Bulan 1: Fokus ke JS dan Back-End (Node.js)
+Bulan 2: Fokus ke Front-End (React dan Flutter)
+Bulan 3: Peserta Mengerjakan aplikasi Full Stack
